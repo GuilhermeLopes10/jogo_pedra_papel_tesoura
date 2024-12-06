@@ -1,0 +1,14 @@
+
+Documentação de Desenvolvimento
+O que foi implementado
+Criei um jogo simples de Pedra, Papel e Tesoura. O jogador escolhe entre pedra, papel ou tesoura, e o computador faz uma escolha aleatória. O jogo diz quem ganhou, se houve empate ou quem perdeu. O jogador pode sair a qualquer momento digitando "sair".
+
+Como o Git ajudou a organizar o projeto
+O Git ajudou bastante a organizar o código:
+
+Controle de versão: Sempre que fiz mudanças importantes, salvei usando o Git. Isso me permitiu voltar atrás se algo desse errado.
+Branches: Criei ramos para trabalhar em partes diferentes do jogo sem bagunçar o código principal.
+Commits: A cada mudança, fiz um commit explicando o que fiz. Isso ajudou a acompanhar o progresso do projeto.
+Compartilhamento: Com o GitHub, pude acessar o código de qualquer lugar e compartilhar facilmente.
+Conclusão
+O Git ajudou a manter o projeto organizado e a controlar as mudanças sem me perder no caminho.
